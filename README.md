@@ -11,7 +11,7 @@ to execute this file:
 - "terraform init"
 - "terraform plan"
 - "terraform apply"
-- "terraform destroy" (if you don´t want to keep the EC2 instance with life (a risk for the free AWS accounts))
+- "terraform destroy" (if you don´t want to keep the EC2 instances and the S3 Bucket with life (a risk for the free AWS accounts))
 
 # What is this for?
 
